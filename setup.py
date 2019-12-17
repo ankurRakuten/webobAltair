@@ -1,6 +1,6 @@
 from setuptools import setup
 
-version = '1.8.5.altair'
+version = '1.8.6'
 
 testing_extras = ['nose', 'coverage']
 
